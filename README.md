@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UC_6LvKkLxCWOgNl5hq6wPQw)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Ashfaquearimbra-red)](https://www.youtube.com/channel/UC_6LvKkLxCWOgNl5hq6wPQw)
 [![Linkedin Badge](https://img.shields.io/badge/-Ashfaque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashfaque-p-49b958222/)](https://www.linkedin.com/in/ashfaque-p-49b958222/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+
 
 I'm
 Full Stack Solution Architect
